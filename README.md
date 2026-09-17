@@ -17,5 +17,5 @@ LLM evaluation (Langfuse) · agentic systems · prompt engineering · RAG & memo
 
 ### Connect
 - ✍️ Medium — [@deepti.chauhan.dce](https://medium.com/@deepti.chauhan.dce)
-- 💼 LinkedIn — `www.linkedin.com/in/deepti-singh-chauhan`
+- 💼 LinkedIn — (https://www.linkedin.com/in/deepti-singh-chauhan) 
 
