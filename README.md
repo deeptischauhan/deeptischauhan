@@ -2,7 +2,7 @@
 
 **Analytics leader moving into AI deployment.** I build and ship LLM systems that are reliable enough to put in front of real users — with a focus on evaluation, memory, and getting AI to production without losing trust in the output.
 
-- 🔭 **Currently building [MarketPulse]** — an agentic analytics copilot (evals + memory + anomaly detection) on public ecommerce data.
+- 🔭 **Currently building [MarketPulse(https://github.com/deeptischauhan/marketpulse)]** — an agentic analytics copilot (evals + memory + anomaly detection) on public ecommerce data.
 - 🧪 I care about **making AI trustworthy in production**: evaluation frameworks, LLM-as-judge, prompt versioning, memory design, and monitoring.
 - 🏗️ At work I deployed a fully automated, multi-tenant AI reporting system — daily, accurate, delivered into Slack — **solo, using AI agents as the execution layer** (what would normally take a small team).
 - ✍️ I write about what I actually build, not what I read.
